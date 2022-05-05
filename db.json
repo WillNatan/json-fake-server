@@ -63,5 +63,17 @@
     }
   ],
   "students": [],
-  "formers": []
+  "formers": [],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Caféteria",
+      "isPublic": true
+    },
+    {
+      "id": 2,
+      "name": "Salle CDA 4",
+      "isPublic": false
+    }
+  ]
 }
